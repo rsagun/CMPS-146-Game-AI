@@ -1,0 +1,15 @@
+temperature: ['scales', 0.11881972823799136]
+size: 0.8456039175848555
+diet: herbivore
+aggression: 0.5630251326856576
+strength: 0.5018288519559343
+speed: 0.3145434262422181
+fat: 0.05619573139951273
+reproduction: insect
+toes: 8
+arms: 4
+legs: 4
+shoulders: 4
+chest: meaty
+neck: flexible
+skin type: swole

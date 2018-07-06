@@ -1,0 +1,30 @@
+aggression: 0.6238256083787217
+chest: meaty
+fat: 0
+neck: flexible
+shoulders: 4
+skin type: moist
+strength: 0.7032084863983269
+toes: 8
+arms: 4
+diet: carnivore
+legs: 4
+reproduction: insect
+size: 0.6718778814610585
+speed: 0.525448342384082
+temperature: ['hide', 0.37906957368493766]
+
+temperature: 0.83
+plant density: 0.47
+prey density: 0.45
+humidity: 0.14
+elevation: 0.15
+geovariance: 0.08
+fertility: 0.74
+sun exposure: 0.72
+precipitation: 0.68
+wind: 0.66
+barometric pressure: 0.26
+natural disaster: 0.54
+pollution: 0.43
+hostility: 0.08
